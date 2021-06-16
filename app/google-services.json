@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043655723658",
+    "firebase_url": "https://fir-notification-9fa36.firebaseio.com",
+    "project_id": "fir-notification-9fa36",
+    "storage_bucket": "fir-notification-9fa36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043655723658:android:89bca950c1751f65c7fb73",
+        "android_client_info": {
+          "package_name": "com.techkeyhari.techkeyhackers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043655723658-503gel64ck7lua1asc76k99lb49t3lrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3EF4GfLvV4Z67hS4aUyK3pvCflISSENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043655723658-503gel64ck7lua1asc76k99lb49t3lrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
